@@ -3,3 +3,4 @@ test
 new line
 
 c0
+cx
